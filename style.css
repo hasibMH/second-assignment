@@ -1,0 +1,43 @@
+body{
+    
+    font-family: 'Oswald', sans-serif;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+#menu-button
+{
+    font-size: 15px;
+    color: white;
+}
+.banner-text h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+span{
+    color: orange;
+}
+.btn .all-button{
+    color: yellowgreen;
+}
+
+h4{
+    color: orange;
+}
+.btn{
+    background-color: yellowgreen;
+    padding: 10px 30px;
+}
+#woman-jacket .woman-image{
+    height: 200px;
+    width: 200px;
+    background-color: dimgray;
+}
+
+ul{
+    color: black;
+}

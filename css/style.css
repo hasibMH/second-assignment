@@ -1,0 +1,40 @@
+body{
+    
+    font-family: 'Oswald', sans-serif;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+#menu-button
+{
+    font-size: 15px;
+    color: black;
+}
+.banner-text h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+span{
+    color: orange;
+}
+.btn .btn-danger .all-button{
+    color: yellowgreen;
+}
+#man-jacket{
+height: 100px;
+width: 100px;
+}
+h4{
+    color: orange;
+}
+.penguin-banner{
+    background-color: red;
+}
+.btn{
+    background-color: yellowgreen;
+    padding: 10px 30px;
+}
